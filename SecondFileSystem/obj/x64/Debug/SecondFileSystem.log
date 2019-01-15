@@ -1,0 +1,11 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.168.80.230'
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  g++: ����/root/projects/SecondFileSystem/obj/x64/Debug/INode.o��û���Ǹ��ļ���Ŀ¼
+  g++: ����/root/projects/SecondFileSystem/obj/x64/Debug/SuperBlock.o��û���Ǹ��ļ���Ŀ¼
+  
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Application Type\Linux\1.0\Linux.targets(281,5): error : g++ exited with code 1, please see the Output Window - Build output for more details (NOTE: the build output verbosity might need to be changed in Tools Options to see more information in the Output Window).

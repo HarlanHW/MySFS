@@ -1,0 +1,8 @@
+﻿  Validating architecture
+  Validating sources
+  Copying sources remotely to '192.168.80.230'
+  Starting remote build
+  Compiling sources:
+  init.cpp
+  Linking objects
+  Initial.vcxproj -> C:\02study\11github\SecondFileSystem\Initial\bin\x64\Debug\Initial.out

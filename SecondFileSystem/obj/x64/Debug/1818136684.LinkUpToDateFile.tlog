@@ -1,0 +1,1 @@
+g++ -o "/root/projects/SecondFileSystem/bin/x64/Debug/SecondFileSystem.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/projects/SecondFileSystem/obj/x64/Debug/FileSystem.o /root/projects/SecondFileSystem/obj/x64/Debug/INode.o /root/projects/SecondFileSystem/obj/x64/Debug/main.o /root/projects/SecondFileSystem/obj/x64/Debug/SuperBlock.o

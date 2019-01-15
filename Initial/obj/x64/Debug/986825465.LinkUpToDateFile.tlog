@@ -1,0 +1,1 @@
+g++ -o "/home/1552238/projects/Initial/bin/x64/Debug/Initial.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/1552238/projects/Initial/obj/x64/Debug/main.o
